@@ -39,7 +39,7 @@ After training and evaluation, the model achieves a certain level of accuracy, p
 Additionally, the model's performance on unseen text examples is assessed using the testing set. The results are reported, providing insights into the model's ability to classify fake and real news accurately.
 
 ## Workflow Diagram
-![Workflow Diagram](workflow_diagram.png)
+![Workflow Diagram](Training flow.jpg)
 
 ## Dataset Sources
 - LIAR dataset: [PolitiFact](https://www.politifact.com/) dataset
